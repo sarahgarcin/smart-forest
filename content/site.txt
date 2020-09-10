@@ -1,0 +1,34 @@
+Title: Smart Forests
+
+----
+
+Logo:
+
+- 
+  first: Smart
+  sign: ◍
+  second: Forests
+
+----
+
+Subtitle: 
+
+----
+
+Sitecolor: #71B340
+
+----
+
+Author: 
+
+----
+
+Keywords: 
+
+----
+
+Description: 
+
+----
+
+Copyright: 
